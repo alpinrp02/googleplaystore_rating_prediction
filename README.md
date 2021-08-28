@@ -1,1 +1,1 @@
-# googleplaystore_rating_prediction
+# Google Play Rating data example
